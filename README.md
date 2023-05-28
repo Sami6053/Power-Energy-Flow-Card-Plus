@@ -12,4 +12,4 @@ There is a [PR](https://github.com/thomasloven/lovelace-card-mod/pull/277) open 
 <hr/>
 
 
-For installation and usage, check the original repository. 
+For installation and usage, check README_Origine.md. 
